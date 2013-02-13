@@ -9,3 +9,7 @@ Version: 1.0
 */
 
 @import url ('../the-bootstrap/styles.css');
+
+body {
+	background: red;
+}
