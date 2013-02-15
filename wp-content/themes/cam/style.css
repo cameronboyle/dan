@@ -12,6 +12,7 @@ Version: 1.0
 
 body {
 	background: url(assets/img/bg.png) repeat;
+	font-family: 'Lato', sans-serif;
 }
 
 a {

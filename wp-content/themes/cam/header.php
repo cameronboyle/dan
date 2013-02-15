@@ -18,6 +18,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		
 		<title><?php wp_title( '&laquo;', true, 'right' ); ?></title>
+
+		<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 		
 		<?php tha_head_bottom(); ?>
 		<?php wp_head(); ?>
@@ -44,6 +46,7 @@
 								<span><?php bloginfo( 'name' ); ?></span>
 							</a>
 						</h1>
+
 						<h2 id="site-description"></h2>
 					</hgroup>
 					
