@@ -1,0 +1,30 @@
+/*
+Theme Name: Cam Theme
+Theme URI: #
+Author: Cameron Boyle
+Author URI: http://cameronboyle.com.au/
+Description: A semantic, HTML5, canvas for CSS artists and an ultra-minimal set of super-clean templates for your own WordPress theme development.
+Template: the-bootstrap
+Version: 1.0
+*/
+
+@import url ('../the-bootstrap/styles.css');
+
+body {
+	background: url(assets/img/bg.png) repeat;
+}
+
+a {
+	color: #222
+}
+
+#page {
+	background: none;
+}
+
+
+.navbar-inverse .navbar-inner {
+	background: none;
+	border: none;
+	box-shadow: none;
+}
